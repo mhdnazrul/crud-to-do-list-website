@@ -15,7 +15,7 @@
 5. [Challenges & Solutions](#challenges--solutions)
 6. [How to Run the Project](#how-to-run-the-project)
 7. [Hosting on GitHub](#hosting-on-github)
-8. [Hosting on Vercel](#hosting-on-vercel)
+8. [Hosting on Heroku](#hosting-on-vercel)
 9. [Future Improvements](#future-improvements)
 10. [Conclusion](#conclusion)
 
